@@ -1,0 +1,4 @@
+rootProject.name = "FinalProject_Nhom_3"
+include ':app'
+include ':lib_interpreter'
+include ':lib_task_api'
