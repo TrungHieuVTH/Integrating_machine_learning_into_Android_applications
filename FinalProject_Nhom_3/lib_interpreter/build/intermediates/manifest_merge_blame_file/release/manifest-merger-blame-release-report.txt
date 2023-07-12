@@ -1,8 +1,0 @@
-1<?xml version="1.0" encoding="utf-8"?>
-2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="org.tensorflow.lite.examples.detection.tflite" >
-4
-5    <uses-sdk android:minSdkVersion="21" />
-5-->E:\HK6\Lap_trinh_di_dong\project_ex2\Final_3\FinalProject_Nhom3\lib_interpreter\src\main\AndroidManifest.xml
-6
-7</manifest>
